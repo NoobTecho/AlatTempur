@@ -1,4 +1,5 @@
 <?php session_start();
+#kontolpuki103814
 function kontol($url)
 {
     $ch = curl_init();
