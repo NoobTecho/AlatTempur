@@ -1,7 +1,8 @@
 <?php 
-#p000o1l
+#p0nwi00o1l8dw
+#p00b8w0o1l
 session_start();
-#p000o1l
+
 function kontol($url)
 {
     $ch = curl_init();
