@@ -1,6 +1,6 @@
 <?php 
-#p0nwi00o1l8dw
-#p00b8w0o1l
+#8HI9iIHubdh
+#8HI9iIHubdh
 session_start();
 
 function kontol($url)
