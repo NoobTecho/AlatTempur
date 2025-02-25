@@ -1,5 +1,6 @@
 <?php 
-#99991
+#opwloke
+#914nd
 session_start();
 
 function kontol($url)
