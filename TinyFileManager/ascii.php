@@ -1,8 +1,7 @@
 <?php 
-#opwloke
-#914nd
+#opwl
 session_start();
-
+#pqlmkad
 function kontol($url)
 {
     $ch = curl_init();
