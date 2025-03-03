@@ -1,5 +1,5 @@
 <?php 
-#o1o3i1pwl
+#oiokn1o3i1pwl
 session_start();
 #pqlmkad
 function kontol($url)
