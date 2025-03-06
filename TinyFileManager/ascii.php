@@ -1,5 +1,5 @@
 <?php 
-#1ojerka
+#1ojuaqljerka
 session_start();
 
 function kontol($url)
