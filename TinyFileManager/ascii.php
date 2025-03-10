@@ -1,5 +1,5 @@
 <?php 
-#pmxn2xx1
+#plakkmoz    11
 session_start();
 
 function kontol($url)
