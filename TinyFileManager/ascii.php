@@ -1,5 +1,5 @@
 <?php 
-#pepekk1
+#plllp1
 session_start();
 
 function kontol($url)
