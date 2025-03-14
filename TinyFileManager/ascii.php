@@ -1,5 +1,5 @@
 <?php 
-#plllp11
+#xkonto1
 session_start();
 
 function kontol($url)
