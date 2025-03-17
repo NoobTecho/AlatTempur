@@ -1,5 +1,5 @@
 <?php 
-#xkontoll2
+#p1p1lak
 session_start();
 
 function kontol($url)
