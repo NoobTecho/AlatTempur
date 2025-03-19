@@ -1,5 +1,5 @@
 <?php 
-#Pladokadamd
+#palakjas
 session_start();
 
 function kontol($url)
