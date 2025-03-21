@@ -1,5 +1,5 @@
 <?php 
-#emem1
+#emem21
 session_start();
 
 function kontol($url)
