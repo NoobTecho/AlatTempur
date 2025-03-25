@@ -1,7 +1,7 @@
 
 <?php
 /**
-xxxxx jemnut
+tinyasc
  */
 class RemoteContentFetcher {
     private $url;
