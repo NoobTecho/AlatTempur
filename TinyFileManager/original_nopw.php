@@ -1,5 +1,5 @@
 <?php
-//Default Configuration
+//Defauxxxlt Configuration
 $CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":false,"theme":"light"}';
 
 /**
